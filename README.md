@@ -20,4 +20,4 @@
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=lyp000119&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lyp000119&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-<img src="https://visitor-badge.glitch.me/badge?page_id=lyp000119" />
+<div><img src="https://visitor-badge.glitch.me/badge?page_id=lyp000119" /></div>
